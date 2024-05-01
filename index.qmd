@@ -1,0 +1,109 @@
+---
+title: CambRidge R User Group
+subtitle: Cambridge RSE Seminar Series
+author: Charlie Gao and Thomas Zwagerman
+date: May 9, 2024
+format:
+    revealjs:
+        theme:
+            - custom.scss
+        incremental: true
+        footer: "slides available at https://shikokuchuo.net/cambRidge-rse-seminar"
+        embed-resources: true
+        slide-number: true
+editor:
+    render-on-save: true
+---
+
+<style>
+h1 {
+  font-size: 1.6em !important;
+}
+h2 {
+  font-size: 1.4em !important;
+}
+</style>
+
+## Introductions
+
+
+::: columns
+::: {.column width="40%"}
+
+![](images/cg.jpg)
+![](images/cg.jpg)
+
+:::
+
+::: {.column width="60%"}
+
+Charlie Gao | Director, Hibiki AI <br />
+Trinity College
+
+Creator of ‘mirai’ framework for parallel and distributed computing in R
+
+<br />
+Thomas Zwagerman <br />
+Research Software Engineer, British Antarctic Survey
+
+:::
+:::
+
+
+
+## Our Aim
+
+. . .
+
+Establish an R User Group for Cambridge
+
+. . .
+
+a.k.a. 
+
+. . .
+
+`CambRidge`
+
+. . .
+
+::: {.nonincremental}
+* Access and celebrate deep R talent
+* Forum for sharing valuable experiences
+* Invite top class speakers from around the world
+* Social and professional context
+:::
+
+
+# 1. The R Developer Community
+
+## Slide Heading
+
+# 2. R Consortium Projects and Funding
+
+## Slide Heading
+
+# 3. R Adoption in Industry
+
+## Life Sciences
+
+![](images/rcons.png)
+
+# 4. R Activities in the RSE Community
+
+## Slide Heading
+
+## CambRidge R User Group {.center}
+
+. . .
+
+::: {.nonincremental}
+* We believe Cambridge has a deep pool of R talent
+* Wish to provide a forum for sharing valuable experiences
+* Aim to invite top class speakers for unique insights
+* Social and professional networking
+:::
+
+. . .
+
+Thank you!
