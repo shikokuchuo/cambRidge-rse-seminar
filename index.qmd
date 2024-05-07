@@ -75,21 +75,60 @@ a.k.a.
 :::
 
 
-# 1. The R Developer Community
+# 1. The R Community
+
+## R User Groups Worldwide
+
+::: {.nonincremental}
+* Registered and sponsored by the R Consortium
+:::
+
+![](images/rugsworld.png)
+
+## R User Groups in the UK
+
+::: {layout-ncol=2}
+![](images/rugsuk.png)
+
+* Warwick
+  + Heather Turner (R Foundation)
+  + Martyn Plummer (R-Core)
+  
+* Oxford
+  + Brian Ripley (R-Core)
+
+* London
+
+* Manchester, Newcastle, Edinburgh and Glasgow
+::: 
+
+# 2. R Open Source Developers
+
+##
+
+::: {layout-ncol=2}
+
+![](images/runiv.png)
+
+* R-universe developer repository
+
+* Worldwide activity ranking
+
+* Some 'household' names
+
+:::
+
+# 3. R Consortium Projects and Funding
 
 ## Slide Heading
 
-# 2. R Consortium Projects and Funding
-
-## Slide Heading
-
-# 3. R Adoption in Industry
+# 4. R Adoption in Industry
 
 ## Life Sciences
 
 ![](images/rcons.png)
 
-# 4. R Community and RSEs
+# 5. R Community and RSEs
 
 ::: {.nonincremental}
 * Community Building is part of our job.
