@@ -15,6 +15,8 @@ editor:
     render-on-save: true
 ---
 
+## Introductions
+
 <style>
 h1 {
   font-size: 1.6em !important;
@@ -23,9 +25,6 @@ h2 {
   font-size: 1.4em !important;
 }
 </style>
-
-## Introductions
-
 
 ::: columns
 ::: {.column width="40%"}
@@ -133,14 +132,15 @@ a.k.a.
 ## Life Sciences
 
 ![](images/rcons.png)
+![](images/crew.png)
 
 # 5. R Community and RSEs
 
 ::: {.nonincremental}
-* Community Building is part of our job.
-* Fits within Research Software Development Principles (Helping your peers).
-* Interactions with "Researchers who code".
-* Promote sustainable software practices, software as a research output, RSE as a career path.
+* Community Building is part of our job
+* Fits within Research Software Development Principles (Helping your peers)
+* Interactions with "Researchers who code"
+* Promote sustainable software practices, software as a research output, RSE as a career path
 * See [The role of the R community in the RSE movement](https://www.software.ac.uk/blog/role-r-community-research-software-engineering-movement)
 :::
 
@@ -150,8 +150,8 @@ a.k.a.
 
 ::: {.nonincremental}
 * We believe Cambridge has a deep pool of R talent
-* Wish to provide a forum for sharing valuable experiences
-* Aim to invite top class speakers for unique insights
+* Forum for sharing valuable experiences
+* Invite top class speakers for unique insights
 * Social and professional networking
 :::
 
