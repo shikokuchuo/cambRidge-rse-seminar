@@ -121,12 +121,11 @@ a.k.a.
   
   + Kirill Müller
   
-  + Yihui Xie
-  
   + Lionel Henry
   
   + Winston Chang
   
+  + Joe Cheng
 
 :::
 
@@ -150,7 +149,7 @@ Michael Lawrence, Thomas Lumley, Uwe Ligges, Martin Mächler, Sebastian Meyer, P
 
 ::: {.nonincremental}
 - R Dev Day @ Imperial College London (26 April 2024) attached to SatRdays London conference
-- Future R Dev Days attached to useR! conference and posit::conf
+- Future R Dev Days satellite events to useR! conference and posit::conf
 :::
 
 ![](images/devday.png)
@@ -167,10 +166,15 @@ Michael Lawrence, Thomas Lumley, Uwe Ligges, Martin Mächler, Sebastian Meyer, P
 
 # 4. R Adoption in Industry
 
+## R/Pharma
+
+![](images/rpharma.png)
+
 ## Life Sciences
 
 ![](images/rcons.png)
-![](images/crew.png)
+
+>  “The integration of TLS into {nanonext} increases the confidence with which {mirai} can be deployed in these powerful environments, accelerating downstream applications and {targets} pipelines.”
 
 # 5. R Community and RSEs
 
