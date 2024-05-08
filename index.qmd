@@ -36,8 +36,8 @@ h2 {
 
 ::: {.column width="60%"}
 
-Charlie Gao | Director, Hibiki AI <br />
-Trinity College
+Charlie Gao *(Trinity College)*<br />
+Director, Hibiki AI
 
 Creator of ‘mirai’ framework for parallel and distributed computing in R
 
@@ -50,7 +50,7 @@ Research Software Engineer, British Antarctic Survey
 
 
 
-## Our Aim
+## Soft Launch
 
 . . .
 
@@ -101,7 +101,7 @@ a.k.a.
 * Manchester, Newcastle, Edinburgh and Glasgow
 ::: 
 
-# 2. R Open Source Developers
+# 2. Open Source Developer Community
 
 ##
 
@@ -115,7 +115,28 @@ a.k.a.
 
 * Some household names
 
+  + Hadley Wickham
+  
+  + Jeroen Ooms
+  
+  + Kirill Müller
+  
+  + Yihui Xie
+  
+  + Lionel Henry
+  
+  + Winston Chang
+  
+
 :::
+
+## useR! Conference
+
+![](images/user2024.png)
+
+## Posit::conf
+
+![](images/positconf.png)
 
 # 3. R Consortium Projects and Funding
 
@@ -136,6 +157,8 @@ a.k.a.
 
 # 5. R Community and RSEs
 
+## R Community and RSEs
+
 ::: {.nonincremental}
 * Community Building is part of our job
 * Fits within Research Software Development Principles (Helping your peers)
@@ -149,9 +172,9 @@ a.k.a.
 . . .
 
 ::: {.nonincremental}
-* We believe Cambridge has a deep pool of R talent
+* Cambridge has a deep pool of R talent
 * Forum for sharing valuable experiences
-* Invite top class speakers for unique insights
+* Top class speakers for unique insights
 * Social and professional networking
 :::
 
