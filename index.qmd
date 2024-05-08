@@ -71,7 +71,7 @@ a.k.a.
 * Access and celebrate deep R talent
 * Forum for sharing valuable experiences
 * Invite top class speakers from around the world
-* Social and professional context
+* Social and professional millieu
 :::
 
 
@@ -112,15 +112,21 @@ a.k.a.
 
 * R-universe developer repository
 
-* Worldwide activity ranking
+* Worldwide activity 'ranking'
 
-* Some 'household' names
+* Some household names
 
 :::
 
 # 3. R Consortium Projects and Funding
 
-## Slide Heading
+## Infrastructure Steering Committee
+
+![](images/funded.png)
+
+## Working Groups
+
+![](images/working.png)
 
 # 4. R Adoption in Industry
 
@@ -137,8 +143,6 @@ a.k.a.
 * Promote sustainable software practices, software as a research output, RSE as a career path.
 * See [The role of the R community in the RSE movement](https://www.software.ac.uk/blog/role-r-community-research-software-engineering-movement)
 :::
-
-## Slide Heading
 
 ## CambRidge R User Group {.center}
 
