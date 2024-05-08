@@ -1,6 +1,6 @@
 ---
 title: CambRidge R User Group
-subtitle: Cambridge RSE Seminar Series
+subtitle: Cambridge RSE Seminar Series <br /> ![](images/signup.png)
 author: Charlie Gao and Thomas Zwagerman
 date: May 9, 2024
 format:
@@ -54,15 +54,7 @@ Research Software Engineer, British Antarctic Survey
 
 . . .
 
-Establish an R User Group for Cambridge
-
-. . .
-
-a.k.a. 
-
-. . .
-
-`CambRidge`
+Establish a `CambRidge` R User Group
 
 . . .
 
@@ -73,6 +65,7 @@ a.k.a.
 * Social and professional millieu
 :::
 
+![](images/signup.png)
 
 # 1. The R Community
 
@@ -226,3 +219,5 @@ Michael Lawrence, Thomas Lumley, Uwe Ligges, Martin Mächler, Sebastian Meyer, P
 . . .
 
 Thank you!
+
+![](images/signup.png)
