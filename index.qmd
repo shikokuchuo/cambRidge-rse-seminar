@@ -155,7 +155,7 @@ Michael Lawrence, Thomas Lumley, Uwe Ligges, Martin Mächler, Sebastian Meyer, P
 
 ::: {.nonincremental}
 - R Dev Day @ Imperial College London (26 April 2024) attached to SatRdays London conference
-- Future satellite events to useR! conference and posit::conf
+- Future satellite events to useR! conference, posit::conf and RSEcon24
 :::
 
 ![](images/devday.png)
@@ -196,6 +196,20 @@ Michael Lawrence, Thomas Lumley, Uwe Ligges, Martin Mächler, Sebastian Meyer, P
 * Interactions with "Researchers who code"
 * Promote sustainable software practices, software as a research output, RSE as a career path
 * See [The role of the R community in the RSE movement](https://www.software.ac.uk/blog/role-r-community-research-software-engineering-movement)
+:::
+
+## But I am not an R user...?
+::: {.nonincremental}
+* C/C++: A lot of packages are written in C.
+* Python: {reticulate} R interface to Python.
+
+* Growing list of shared tools:
+  * Quarto
+  * Shiny for Python
+  * webR + WebAssembly
+  * Shinylive + Pyodide
+  
+* Enables low-barrier collaboration between R and non-R users.
 :::
 
 ## CambRidge R User Group {.center}
