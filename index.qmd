@@ -155,7 +155,7 @@ Michael Lawrence, Thomas Lumley, Uwe Ligges, Martin Mächler, Sebastian Meyer, P
 
 ::: {.nonincremental}
 - R Dev Day @ Imperial College London (26 April 2024) attached to SatRdays London conference
-- Future R Dev Days satellite events to useR! conference and posit::conf
+- Future satellite events to useR! conference and posit::conf
 :::
 
 ![](images/devday.png)
