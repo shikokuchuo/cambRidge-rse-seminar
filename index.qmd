@@ -138,13 +138,30 @@ a.k.a.
 
 ![](images/positconf.png)
 
+## R Project Sprint 2023 @ Warwick
+
+![](images/projectsprint2.jpeg)
+
+R-Core attendance:
+
+Michael Lawrence, Thomas Lumley, Uwe Ligges, Martin Mächler, Sebastian Meyer, Paul Murrell, Martyn Plummer, Deepayan Sarkar, Luke Tierney, Simon Urbanek
+
+## R Dev Days
+
+::: {.nonincremental}
+- R Dev Day @ Imperial College London (26 April 2024) attached to SatRdays London conference
+- Future R Dev Days attached to useR! conference and posit::conf
+:::
+
+![](images/devday.png)
+
 # 3. R Consortium Projects and Funding
 
 ## Infrastructure Steering Committee
 
 ![](images/funded.png)
 
-## Working Groups
+## R Consortium Working Groups
 
 ![](images/working.png)
 
