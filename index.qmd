@@ -109,9 +109,7 @@ a.k.a.
 
 ![](images/runiv.png)
 
-* R-universe developer repository
-
-* Worldwide activity 'ranking'
+* ROpenSci R-universe developer repository
 
 * Some household names
 
@@ -127,6 +125,14 @@ a.k.a.
   
   + Joe Cheng
 
+:::
+
+## Beyond Async: Shiny / mirai
+
+::: {layout-ncol=2}
+![](images/beyond.jpeg)
+
+![](images/satrday.png)
 :::
 
 ## useR! Conference
@@ -169,6 +175,10 @@ Michael Lawrence, Thomas Lumley, Uwe Ligges, Martin Mächler, Sebastian Meyer, P
 ## R/Pharma
 
 ![](images/rpharma.png)
+
+## R/Pharma
+
+![](images/targets.png)
 
 ## Life Sciences
 
